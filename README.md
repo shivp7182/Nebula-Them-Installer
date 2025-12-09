@@ -31,7 +31,7 @@ Ideal for hosting providers and developers who want a fast, stable, beautiful th
 Run this command to install the **Nebula Theme** instantly:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/hopingboyz/nebula/main/nebula-installer.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/shivp7182/Nebula-Them-Installer/main/nebula%20theme%20install)
 ```
 
 ---
